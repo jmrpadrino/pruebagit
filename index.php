@@ -6,5 +6,6 @@
 <body>
    <h1>Prurba git 1</h1>
    <p>Parrafo hecho en el Branch Master</p>
+   <p>Parrafo de otro commit</p>
 </body>
 </html>
