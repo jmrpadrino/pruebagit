@@ -1,0 +1,11 @@
+commit c90e1cb178ced37fcbe415cab96abcbc0e197abb
+Author: jmrpadrino <jmrpadrino@gmail.com>
+Date:   Tue Aug 15 22:03:47 2017 -0400
+
+    primer commit
+
+commit 6f1d513c02f4e724b67ea54eefc6200de4c08b0b
+Author: jmrpadrino <jmrpadrino@gmail.com>
+Date:   Tue Aug 15 22:02:09 2017 -0400
+
+    Primer Commit
